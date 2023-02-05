@@ -40,3 +40,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 "# yanapakuqniyki-frontend" 
 "# yanapakuqniyki-frontend" 
 "# yanapakuqniyki-frontend" 
+"# yanapakuqniyki-frontend" 
